@@ -1,4 +1,4 @@
-# Great Expectations Data Validation
+# Great Expectations ~ A Tool for Data Validation
 
 ## Introduction
 
